@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDM_2021_I_P1_PROYECTO1.1</string>
+    <string name="crear_palabra">Crear Palabra</string>
+    <string name="adivinarpalabra">AdivinarPalabra</string>
+    <string name="inserte_una_palabra">Inserte Una Palabra</string>
+    <string name="guardar">Guardar</string>
+    <string name="inserte_una_pista">Inserte una pista</string>
+    <string name="atras">Atras</string>
+</resources>
